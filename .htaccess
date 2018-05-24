@@ -1,0 +1,3 @@
+RewriteEngine on
+#Redirect 404 errors to logic.php
+ErrorDocument 404 /timestamp-microservice/index.php
